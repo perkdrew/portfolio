@@ -22,7 +22,7 @@ const About = () => {
       </div>
       <div className="skills-icons" data-aos="fade-down">
         <Icon className="icon" icon="vscode-icons:file-type-python" title="Python"/>
-        <Icon className="icon" icon="logos:tensorflow" title="Tensorflow"/>
+        <Icon className="icon" icon="logos:pytorch" title="Pytorch"/>
         <Icon className="icon" icon="vscode-icons:file-type-scss2" title="Saas"/>
         <Icon className="icon" icon="vscode-icons:file-type-reactjs" title="React"/>
         <Icon className="icon" icon="vscode-icons:file-type-typescript-official" title="Typescript"/>
