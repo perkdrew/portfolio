@@ -4,6 +4,7 @@
 /dist
 /tmp
 /out-tsc
+/src/react-app-env.d.ts
 
 # Runtime data
 pids
