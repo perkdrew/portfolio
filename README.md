@@ -3,7 +3,7 @@
 Stack:
 - React 
 - Typescript
-- Saas
+- Sass
 
 ## Installation
 
