@@ -5,7 +5,6 @@
 /tmp
 /out-tsc
 /src/react-app-env.d.ts
-/build
 
 # Runtime data
 pids
