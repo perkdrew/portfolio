@@ -29,7 +29,7 @@ const About = () => {
                       with Typescript and React, backend development with Python, and cloud operations in GCP. However, I do not
                       shy away from broaching new tools and technologies with the company, and we look at a variety of solutions,
                       new and old, to get us closer to our company goals. I have been working with Python for 4 years and
-                      Typescript/React for the past 2 years. My CV can be found <a href="https://drive.google.com/file/d/1GSAWeg8Ze2GUiDOh153sQQ7nY5DMwTfH/view?usp=sharing" target="_blank" rel="noopener noreferrer">here</a>.
+                      Typescript/React for the past 2 years. My CV can be found <a href="https://drive.google.com/file/d/1KL-r90v9J9WA8Im5W6zpz38a09pfZRoz/view?usp=sharing" target="_blank" rel="noopener noreferrer">here</a>.
                   </p>
                 </div>
                 <div className="heading">
