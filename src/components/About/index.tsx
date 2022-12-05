@@ -37,7 +37,7 @@ const About = () => {
                 </div>
                 <div className="skills-icons" data-aos="fade-down">
                     <Icon className="icon" icon="vscode-icons:file-type-python"/>
-                    <Icon className="icon" icon="logos:pytorch"/>
+                    <Icon className="icon" icon="logos:pytorch-icon"/>
                     <Icon className="icon" icon="vscode-icons:file-type-scss2"/>
                     <Icon className="icon" icon="vscode-icons:file-type-reactjs"/>
                     <Icon className="icon" icon="vscode-icons:file-type-typescript-official"/>
@@ -45,6 +45,7 @@ const About = () => {
                     <Icon className="icon" icon="logos:postgresql"/>
                     <Icon className="icon" icon="logos:kubernetes"/>
                     <Icon className="icon" icon="logos:google-cloud"/>
+                    <Icon className="icon" icon="logos:terraform-icon"/>
                 </div>
             </Fade>
         </div>
