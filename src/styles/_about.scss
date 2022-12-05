@@ -24,6 +24,10 @@
     }
     a {
       text-decoration: none;
+      color: #484888;
+      &:hover {
+          color: #5b5ba8;
+      }
     }
     p {
       padding: 0 30px;
