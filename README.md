@@ -1,11 +1,14 @@
 # Portfolio
 
-Stack:
+This is a portfolio project built using the following tech stack:
+
 - React 
 - Typescript
 - Sass
 
 ## Installation
+
+To install the dependencies for this project, run the following command:
 
 ```bash
 yarn install
@@ -13,19 +16,16 @@ yarn install
 
 ## Run
 
+To run the project, use the following command:
+
 ```bash
 yarn start
 ```
 
-## Future Ideas 
-- Some toggle options 
-- Google Analytics
-- Communicate with API (?)
-
-
 ## References
 
-https://github.com/nrandecker/particle
+Here are some references that were used in the development of this project:
 
-https://fontawesome.com/docs/web/use-with/scss
+- https://github.com/nrandecker/particle
+- https://fontawesome.com/docs/web/use-with/scss
 
