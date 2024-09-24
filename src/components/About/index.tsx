@@ -1,14 +1,24 @@
-import React from 'react'
-import { Icon } from '@iconify/react'
+import React from 'react';
+import { Icon } from '@iconify/react';
 // @ts-ignore
-import Fade from 'react-reveal/Fade'
+import Fade from 'react-reveal/Fade';
 
 const linkProps = {
   target: '_blank',
   rel: 'noopener noreferrer',
-}
+};
 
 const About = () => {
+  const currentYear = new Date().getFullYear();
+  
+  const pythonStartYear = 2018; 
+  const jsTsStartYear = 2020; 
+  const goStartYear = 2022; 
+  
+  const pythonExperience = currentYear - pythonStartYear;
+  const jsTsExperience = currentYear - jsTsStartYear;
+  const goExperience = currentYear - goStartYear;
+
   return (
     <section id="about">
       <Fade left>
@@ -72,13 +82,14 @@ const About = () => {
               extraction often on, but not limited to, receipts and invoices.
               Our current R&D has been on document layout analysis using
               multimodal transformers in this same domain. My concerns at the
-              company often encompass frontend development with Typescript and
-              React, backend development with Python, and cloud operations in
-              GCP. However, I do not shy away from broaching new tools and
+              company often encompass frontend development with Typescript, 
+              backend development with Python or Go, and cloud operations in
+              Azure. However, I do not shy away from broaching new tools and
               technologies with the company, and we look at a variety of
-              solutions, new and old, to get us closer to our company goals. I
-              have been working with Python for 5 years and Typescript/React for
-              the past 3 years. My CV can be found{' '}
+              solutions, new and old, to get us closer to our company goals. 
+              I have been working with Python for {pythonExperience} years, 
+              Javascript/Typescript for the past {jsTsExperience} years, 
+              and Go for the past {goExperience} years. My CV can be found{' '}
               <a
                 href="https://drive.google.com/file/d/18slIooCW_hMZFT0nNcMYfkXYdQg-1i8K/view?usp=sharing"
                 {...linkProps}
@@ -110,7 +121,7 @@ const About = () => {
         </div>
       </Fade>
     </section>
-  )
-}
+  );
+};
 
-export default React.memo(About)
+export default React.memo(About);
