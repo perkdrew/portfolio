@@ -69,19 +69,20 @@ const About = () => {
               <a href="https://softrobot.io/our-story/" {...linkProps}>
                 SoftRobot
               </a>
-              , a software company that specializes in AI. Our flagship product,
-              known as{' '}
+              , a software company that specializes in AI. Our flagship product, {' '}
               <a
                 href="https://aiida.io/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Aiida
+                Titus
               </a>
-              , manages accounting workflows and performs interpretation and
-              extraction often on, but not limited to, receipts and invoices.
-              Our current R&D focuses on document layout analysis using multimodal 
-              models, with a strong emphasis on RAG architecture to enhance 
+              , is a generative assistant tailored to a business domain and 
+              enhances business operations by interpreting, extracting, and providing insights 
+              from various internal documents. Titus helps streamline tasks such as understanding
+              guidelines and policies, automating customer support, and sourcing projects, 
+              all within a secure, GDPR-compliant environment. Our current R&D focuses on multimodal 
+              models, with a strong emphasis on [RAG](https://research.ibm.com/blog/retrieval-augmented-generation-RAG) architecture to enhance 
               information retrieval and content generation. We are also 
               exploring multi-agent thinking, enabling specialized AI agents 
               to collaborate, improving efficiency and precision in complex 
