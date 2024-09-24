@@ -80,14 +80,17 @@ const About = () => {
               </a>
               , manages accounting workflows and performs interpretation and
               extraction often on, but not limited to, receipts and invoices.
-              Our current R&D has been on document layout analysis using
-              multimodal transformers in this same domain. My concerns at the
-              company often encompass frontend development with Typescript, 
-              backend development with Python or Go, and cloud operations in
-              Azure. However, I do not shy away from broaching new tools and
-              technologies with the company, and we look at a variety of
-              solutions, new and old, to get us closer to our company goals. 
-              I have been working with Python for {pythonExperience} years, 
+              Our current R&D focuses on document layout analysis using multimodal 
+              models, with a strong emphasis on RAG architecture to enhance 
+              information retrieval and content generation. We are also 
+              exploring multi-agent thinking, enabling specialized AI agents 
+              to collaborate, improving efficiency and precision in complex 
+              document workflows. My concerns at the company often encompass 
+              frontend development with Typescript, backend development with 
+              Python or Go, and cloud operations in Azure. However, I do not 
+              shy away from broaching new tools and technologies with the company, 
+              and we look at a variety of solutions, new and old, to get us closer 
+              to our company goals. I have been working with Python for {pythonExperience} years, 
               Javascript/Typescript for the past {jsTsExperience} years, 
               and Go for the past {goExperience} years. My CV can be found{' '}
               <a
