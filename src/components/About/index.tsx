@@ -125,7 +125,7 @@ const About = () => {
             <Icon className="icon" icon="vscode-icons:file-type-go-gopher" />
             <Icon className="icon" icon="logos:postgresql" />
             <Icon className="icon" icon="logos:kubernetes" />
-            <Icon className="icon" icon="logos:google-cloud" />
+            <Icon className="icon" icon="logos:microsoft-azure" />
             <Icon className="icon" icon="logos:terraform-icon" />
           </div>
         </div>
