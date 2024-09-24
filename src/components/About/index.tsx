@@ -82,7 +82,7 @@ const About = () => {
               from various internal documents. Titus helps streamline tasks such as understanding
               guidelines and policies, automating customer support, and sourcing projects, 
               all within a secure, GDPR-compliant environment. Our current R&D focuses on multimodal 
-              models, with a strong emphasis on 
+              models, with a strong emphasis on {' '} 
               <a
                 href="https://research.ibm.com/blog/retrieval-augmented-generation-RAG"
                 target="_blank"
