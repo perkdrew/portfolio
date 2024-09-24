@@ -80,7 +80,7 @@ const About = () => {
               have been working with Python for 5 years and Typescript/React for
               the past 3 years. My CV can be found{' '}
               <a
-                href="https://drive.google.com/file/d/1CNUz6OIj4cQHNC8jQYANLsvebN7y7c6Z/view?usp=sharing"
+                href="https://drive.google.com/file/d/18slIooCW_hMZFT0nNcMYfkXYdQg-1i8K/view?usp=sharing"
                 {...linkProps}
               >
                 here
