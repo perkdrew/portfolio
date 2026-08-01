@@ -58,7 +58,14 @@ const About = () => {
               >
                 thesis{' '}
               </a>
-              and am also featured in{' '}
+              (implementation on{' '}
+              <a
+                href="https://github.com/perkdrew/named-entity-linking"
+                {...linkProps}
+              >
+                GitHub
+              </a>
+              ) and am also featured in{' '}
               <a
                 href="http://www.semantic-web-journal.net/content/survey-english-entity-linking-wikidata"
                 {...linkProps}
