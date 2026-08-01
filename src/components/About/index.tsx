@@ -109,6 +109,22 @@ const About = () => {
               .
             </p>
           </div>
+          <h1>Klura Games</h1>
+          <div className="description">
+            <p>
+              Outside of work I build and run{' '}
+              <a href="https://kluragames.com" {...linkProps}>
+                Klura Games
+              </a>
+              , a site with a growing set of free daily puzzle games that I
+              operate as a sole trader here in Sweden. Everyone gets the same
+              board each day, runs are saved and ranked against the day's field,
+              and each one resolves into a result you can share. I curate
+              and review the puzzles myself before each day goes live. The games
+              are informed by public reference sources, but they are built for
+              entertainment rather than as an authoritative reference.
+            </p>
+          </div>
           <div className="heading">
             <h1>Tech Stack</h1>
           </div>
@@ -116,7 +132,7 @@ const About = () => {
             <Icon className="icon" icon="vscode-icons:file-type-python" />
             <Icon className="icon" icon="logos:pytorch-icon" />
             <Icon className="icon" icon="vscode-icons:file-type-reactjs" />
-            <Icon className="icon" icon="devicon:nextjs" />
+            <Icon className="icon" icon="logos:svelte-icon" />
             <Icon className="icon" icon="devicon:tailwindcss" />
             <Icon
               className="icon"

@@ -11,7 +11,7 @@ This is a portfolio project built using the following tech stack:
 To install the dependencies for this project, run the following command:
 
 ```bash
-yarn install
+pnpm install
 ```
 
 ## Run
@@ -19,7 +19,7 @@ yarn install
 To run the project, use the following command:
 
 ```bash
-yarn start
+pnpm start
 ```
 
 ## Deploy to GitHub Pages
