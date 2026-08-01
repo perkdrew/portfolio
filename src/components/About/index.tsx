@@ -23,7 +23,7 @@ const About = () => {
     <section id="about">
       <Fade left>
         <div className="heading">
-          <h1>About Me</h1>
+          <h2>About Me</h2>
           <div className="description">
             <img src="../images/portfolio-min.jpeg" alt="Drew Perkins" />
             <p>
@@ -47,7 +47,7 @@ const About = () => {
               a movie, or attending the local pub for competitive trivia.
             </p>
           </div>
-          <h1>Publications and Work</h1>
+          <h2>Publications and Work</h2>
           <div className="description">
             <img src="../images/softrobot.jpeg" alt="SoftRobot" />
             <p>
@@ -109,7 +109,7 @@ const About = () => {
               .
             </p>
           </div>
-          <h1>Klura Games</h1>
+          <h2>Klura Games</h2>
           <div className="description">
             <p>
               Outside of work I build and run{' '}
@@ -126,7 +126,7 @@ const About = () => {
             </p>
           </div>
           <div className="heading">
-            <h1>Tech Stack</h1>
+            <h2>Tech Stack</h2>
           </div>
           <div className="skills-icons" data-aos="fade-down">
             <Icon className="icon" icon="vscode-icons:file-type-python" />

@@ -6,7 +6,10 @@
   .heading {
     font-size: 20px;
     position: relative !important;
-    h1 {
+    h2 {
+      // section headings are h2 so the page keeps a single h1 (the name in the
+      // header); sized to match the original h1 styling
+      font-size: 2.5rem;
       margin: 0;
       padding: 20px 0;
     }
